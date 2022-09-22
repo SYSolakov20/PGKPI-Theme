@@ -9,7 +9,7 @@ Light Theme
 ## Core Properties
 These are the base properties we have used to make the theme.
 
-```javascript
+```json
 	  "colors": {
 		"editor.background": "#eeeded",
 		"editor.foreground": "#333333",

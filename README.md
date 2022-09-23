@@ -45,5 +45,14 @@ These are the base properties we have used to make the theme.
 | ![#F1BE00](https://cdn.discordapp.com/attachments/900689339179216926/1022597018604027914/color-5.png) `#F1BE00` | Object properties, Regex quantifiers and flags, Markdown headings, Terminal Cyan, Markdown code, editorLineNumber.activeForeground |
 
 
+## Installation
+This is the installation guide.
+
+1. Download the repository by the `git clone` command.
+2. Open VS Code and use the shortcut: `Ctrl + Short + P`.
+3. Type `Install from VSIX` in the text box.
+4. Choose the `pgkpi-theme-0.0.1.vsix` file from the downloaded folder. (The file is located in the root folder)
+5. After embedding the theme in VS Code, use the same shortuct `Ctrl + Short + P` and chose `Color theme`.
+6. Find the PGKPI Theme and apply it.
 
 **Dark Theme Coming soon...**

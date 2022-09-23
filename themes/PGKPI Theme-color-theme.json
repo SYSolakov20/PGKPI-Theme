@@ -15,11 +15,14 @@
 		"activityBar.background":"#002147",
 		"activityBar.inactiveForeground":"#e7e7e7",
 		"activityBar.foreground":"#F1BE00",
+		"activityBar.activeBackground":"#06377062",
 		"statusBar.background":"#3859A7",
 		"statusBar.foreground":"#e0e0e0",
 		"statusBarItem.remoteBackground":"#3859A7",
 		"scrollbar.shadow":"#0021474d",
 		"scrollbarSlider.activeBackground":"#2b6f8f48",
+		"contrastActiveBorder":"#d5d5d54b",
+		"widget.shadow":"#2b6f8f48",	
 	},
 	"tokenColors": [
 		{

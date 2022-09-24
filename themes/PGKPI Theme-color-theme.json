@@ -3,24 +3,48 @@
 	"author": "Soner Solakov",
     "type": "light",
 	"colors": {
+		//Main Background color
 		"editor.background": "#eeeded",
+		//Main Foreground color
 		"editor.foreground": "#333333",
-        "list.activeSelectionIconForeground": "#333333",
-		"sideBar.background": "#e6e5e5",
 		"editorGroup.dropBackground": "#2b6f8f48",
-		"tab.activeBackground":"#d8d8d839",
-		"tab.inactiveBackground":"#bcbdce4e",
+		//Line number 
 		"editorLineNumber.foreground":"#002147",
 		"editorLineNumber.activeForeground":"#F1BE00",
+		//Side Bar
+		"sideBar.background": "#e6e5e5",
+		"sideBar.border": "#bbbbbb39",
+		"sideBar.foreground": "#333333",
+		"sideBarSectionHeader.background": "#d9d9d9",
+		//Tabs
+		"tab.activeBackground":"#d8d8d839",
+		"tab.activeForeground":"#002147",
+		"tab.inactiveBackground":"#bcbdce4e",
+		"tab.inactiveForeground": "#aaa",
+		"tab.unfocusedActiveForeground": "#aaa",
+		"tab.unfocusedInactiveForeground": "#aaa",
+		//List
+		"list.activeSelectionIconForeground": "#333333",
+		"list.dropBackground": "#6b767d",
+		"list.activeSelectionBackground": "#bcbdce4e",
+		"list.activeSelectionForeground": "#002147",
+		"list.focusBackground": "#8d8d8d",
+		"list.focusForeground": "#aaa",
+		"list.hoverBackground": "#bbbbbb39",
+		"list.hoverForeground": "#aaa",
+		//Activity bar
 		"activityBar.background":"#002147",
 		"activityBar.inactiveForeground":"#e7e7e7",
 		"activityBar.foreground":"#F1BE00",
 		"activityBar.activeBackground":"#06377062",
+		//Status Bar
 		"statusBar.background":"#3859A7",
 		"statusBar.foreground":"#e0e0e0",
 		"statusBarItem.remoteBackground":"#3859A7",
+		//ScrollBar
 		"scrollbar.shadow":"#0021474d",
 		"scrollbarSlider.activeBackground":"#2b6f8f48",
+		//Extras
 		"contrastActiveBorder":"#d5d5d54b",
 		"widget.shadow":"#2b6f8f48",	
 	},

@@ -47,6 +47,12 @@
 		//Extras
 		"contrastActiveBorder":"#d5d5d54b",
 		"widget.shadow":"#2b6f8f48",	
+		// button
+		"button.background": "#002147",
+		"button.foreground": "#fff",
+		"button.hoverBackground": "#ff9d00",
+		// gutter
+		"editorGutter.background": "#eeeded",
 	},
 	"tokenColors": [
 		{

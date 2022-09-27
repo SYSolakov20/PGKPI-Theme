@@ -219,7 +219,7 @@
 			"name": "Punctuation",
 			"scope": "punctuation",
 			"settings": {
-				"foreground": "#F1BE00"
+				"foreground": "#fa7272"
 			}
 		},
 		{
@@ -243,7 +243,7 @@
 				"punctuation.definition.tag.end.html"
 			],
 			"settings": {
-				"foreground": "#91B3E0"
+				"foreground": "#6ecdc9"
 			}
 		},
 		{
@@ -261,7 +261,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#91B3E0"
+				"foreground": "#a541f1"
 			}
 		},
 		{

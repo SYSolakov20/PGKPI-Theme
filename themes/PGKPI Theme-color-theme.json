@@ -53,6 +53,17 @@
 		"button.hoverBackground": "#ff9d00",
 		// gutter
 		"editorGutter.background": "#eeeded",
+		//merge
+		"merge.currentHeaderBackground": "#5f7e97",
+    	"merge.incomingHeaderBackground": "#7e57c25a",
+		//notifications
+		"notifications.background": "#adadad",
+		"notifications.border": "#F1BE00",
+		"notificationCenter.border": "#262a39",
+		"notificationToast.border": "#262a39",
+		"notifications.foreground": "#ffffffcc",
+		"notificationLink.foreground": "#3859A7",
+	
 	},
 	"tokenColors": [
 		{

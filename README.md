@@ -1,5 +1,5 @@
+<img align="left" width="90" height="90" src="https://cdn.discordapp.com/attachments/900689339179216926/1084811184953368737/logo.png" ></h2>
 # PGKPI-THEME 
-
 This is Clean Visual Studio Code theme that is closely realted to PGKPI. The theme is inspired by the school building and the flag colors. We made sure that the theme is easily accessible and ready to use!
 
 ## Screenshots
